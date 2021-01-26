@@ -11,5 +11,4 @@ define("cars", [
   "Toyota"
 ]);
 echo cars[0];
-
 ?>
