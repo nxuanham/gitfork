@@ -5,10 +5,4 @@ foreach($age as $x => $val) {
   echo "$x = $val<br>";
 }
 
-define("cars", [
-  "Alfa Romeo",
-  "BMW",
-  "Toyota"
-]);
-echo cars[0];
 ?>
