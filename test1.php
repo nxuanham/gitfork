@@ -5,3 +5,4 @@ foreach ($colors as $value) {
   echo "$value <br>";
 }
 ?>
+
